@@ -32,5 +32,5 @@ Standard DDPG fails to reach the two balls with high success rate.  The modular 
 ![Standard](https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Standard_DDPG_2.gif" width="50" height="50"/)
 ![Modular](/Images/Modular_DDPG_2.gif)
 
-![test](https://github.com/favicon.ico)
+![test](https://github.com/favicon.ico" width="48")
 <br>
