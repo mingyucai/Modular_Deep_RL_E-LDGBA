@@ -21,4 +21,4 @@ The task is required to visit region 1, and then region 2. Here we compare the m
 ![Task2_Reward](/img/)
 <br><br>
 
-
+Standard DDPG fails to reach the two balls with high success rate.  The modula rDDPG (on the right), instead, is able to completely solve the specified task with 100% success rate.
