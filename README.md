@@ -24,13 +24,13 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 ### Task 2
 The task 2 is required to visit region 1, and then region 2. Here we compare the mean and standard deviation of rewards during training for two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
+!Rward](/Images/Task2_reward.jpg)
+
 <br><br>
 
 Standard DDPG fails to reach the two balls with high success rate.  The modular DDPG (on the right), instead, is able to completely solve the specified task with 100% success rate.
 
 
-![Standard](https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Standard_DDPG_2.gif) 
-![Modular](/Images/Modular_DDPG_2.gif)
 
 
 <br>
