@@ -30,6 +30,8 @@ Standard DDPG fails to reach the two balls with high success rate.  The modula r
 
 
 ![Standard](/img/Standard_DDPG_2.gif)
+
+
 ![Modular](/img/Modular_DDPG_2.gif)
 
 
