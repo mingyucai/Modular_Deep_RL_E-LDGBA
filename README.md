@@ -15,8 +15,8 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 
 ## Results
 
-# Task 2 in the Reference
-The task is required to visit region 1, and then region 2. Here we compare the mean and standard deviation of rewards during training for two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+### Task 2
+The task 2 is required to visit region 1, and then region 2. Here we compare the mean and standard deviation of rewards during training for two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
 ![Task2_Reward](/img/)
 <br><br>
