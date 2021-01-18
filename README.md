@@ -26,13 +26,11 @@ The task 2 is required to visit region 1, and then region 2. Here we compare the
 
 <br><br>
 
-Standard DDPG fails to reach the two balls with high success rate.  The modula rDDPG (on the right), instead, is able to completely solve the specified task with 100% success rate.
+Standard DDPG fails to reach the two balls with high success rate.  The modular DDPG (on the right), instead, is able to completely solve the specified task with 100% success rate.
 
 
-![Standard](/img/Standard_DDPG_2.gif)
-
-
-![Modular](/img/Modular_DDPG_2.gif)
+![Standard](/Images/Standard_DDPG_2.gif)
+![Modular](/Images/Modular_DDPG_2.gif)
 
 
 <br>
