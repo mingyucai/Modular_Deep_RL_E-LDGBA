@@ -29,8 +29,8 @@ The task 2 is required to visit region 1, and then region 2. Here we compare the
 Standard DDPG fails to reach the two balls with high success rate.  The modular DDPG (on the right), instead, is able to completely solve the specified task with 100% success rate.
 
 
-![Standard](https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Standard_DDPG_2.gif" width="50" height="50"/)
+![Standard](https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Standard_DDPG_2.gif)
 ![Modular](/Images/Modular_DDPG_2.gif)
 
-![test](<img src="https://github.com/favicon.ico" width="48">)
+
 <br>
