@@ -30,7 +30,7 @@ The task 2 is required to visit region 1, and then region 2. Here we compare the
 
  The modular DDPG (on the left), instead, is able to completely solve the specified task with 100% success rate.Standard DDPG (one the right) fails to reach the two balls with high success rate. 
 
-![Modular](/Images/Task2_modular.gif)
+![Modular](/Images/Tas2_modular.gif)
 ![Standard](/Images/Task2_standard.gif)
 
 
