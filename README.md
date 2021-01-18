@@ -15,7 +15,7 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 
 ## Results
 
-### Task 2
+### Task 1
 
 
 
