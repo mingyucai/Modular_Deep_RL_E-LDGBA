@@ -8,6 +8,7 @@ The repository implements a modular Deep Deterministic Policy Gradients (DDPG) R
 
 ## The Environment
 The task is performed on a custom environment developed using Gym-OpenAI from [DeepRL-LTL](https://github.com/RickyMexx/DeepRL-LTL). 
+<img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Ball-Pass_environment.jpg" width="400" height="300">
 <br>
 
 ## Results
