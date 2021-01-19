@@ -13,7 +13,7 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 ## Results
 
 ### Task 1
-The task 1 is a surveillance mission that requireds to s visit region 1 and region 2 periodically. The modular DDPG (on the left) is able to completely solve the specified task with 100% success rate. Standard DDPG (one the right) fails for this repetitve pattern. 
+The task 1 is a surveillance mission that requireds to s visit region 1 and region 2 periodically (infinite horizon). The modular DDPG (on the left) is able to completely solve the specified task with 100% success rate. Standard DDPG (one the right) fails for this repetitve pattern. 
 
 ![Modular](/Images/Task1_modular.gif)
 ![Standard](/Images/Task1_standard.gif)
@@ -27,7 +27,7 @@ The task 1 is a surveillance mission that requireds to s visit region 1 and regi
 <br>
 
 ### Task 2
-The task 2 is required to visit region 1, and then region 2. The modular DDPG (on the left), instead, is able to completely solve the specified task with 100% success rate.Standard DDPG (one the right) fails to reach the two balls with high success rate. 
+The task 2 is required to visit region 1, and then region 2 (finite horizon). The modular DDPG (on the left) is able to completely solve the specified task with 100% success rate. The success rate of Standard DDPG (one the right) is around 86%. 
 
 ![Modular](/Images/Tas2_modular.gif)
 ![Standard](/Images/Task2_standard.gif)
