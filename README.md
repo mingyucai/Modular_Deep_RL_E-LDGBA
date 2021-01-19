@@ -24,7 +24,7 @@ The task 1 is a surveillance mission that requireds to s visit region 1 and regi
 <br><br>
 Here we compare the mean and standard deviation of rewards during training for task1 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
-![Rward](/Images/Task2_reward.jpg)
+![Rward](/Images/Task1_reward.jpg)
 
 
 
