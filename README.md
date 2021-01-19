@@ -9,7 +9,7 @@ The repository implements a modular Deep Deterministic Policy Gradients (DDPG) R
 ## The Environment
 The task is performed on a custom environment developed using Gym-OpenAI from [DeepRL-LTL](https://github.com/RickyMexx/DeepRL-LTL). The 6-dimensional state consists of the position and velocity along the x and y axes and two binary values (one for each circle) specifying whether the agent has gone through a circle. There are two circles in a specified order: bottom-left, top-right and a ball as the agent.
 
-![Ball-Pass](/Images/Ball-Pass_environment.jpg){:height="60%" width="60%"}
+![Ball-Pass](/Images/Ball-Pass_environment.jpg){height="50%" width="50%"}
 
 <br>
 
