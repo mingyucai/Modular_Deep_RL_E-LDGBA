@@ -13,14 +13,21 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 ## Results
 
 ### Task 1
+The task 1 is a surveillance mission that requireds to s visit region 1 and region 2 repetitively. The modular DDPG (on the left), instead, is able to completely solve the specified task with 100% success rate.Standard DDPG (one the right) fails to reach the two balls with high success rate. 
+
+![Modular](/Images/Tas1_modular.gif)
+![Standard](/Images/Task1_standard.gif)
+
+
+<br><br>
+
 
 
 
 <br>
 
 ### Task 2
-
-The modular DDPG (on the left), instead, is able to completely solve the specified task with 100% success rate.Standard DDPG (one the right) fails to reach the two balls with high success rate. 
+The task 2 is required to visit region 1, and then region 2. The modular DDPG (on the left), instead, is able to completely solve the specified task with 100% success rate.Standard DDPG (one the right) fails to reach the two balls with high success rate. 
 
 ![Modular](/Images/Tas2_modular.gif)
 ![Standard](/Images/Task2_standard.gif)
@@ -28,7 +35,7 @@ The modular DDPG (on the left), instead, is able to completely solve the specifi
 
 <br><br>
 
-The task 2 is required to visit region 1, and then region 2. Here we compare the mean and standard deviation of rewards during training for two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the mean and standard deviation of rewards during training for two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
 ![Rward](/Images/Task2_reward.jpg)
 
