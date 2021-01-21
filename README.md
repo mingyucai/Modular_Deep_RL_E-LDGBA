@@ -13,7 +13,8 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 <br>
 
 ## Results for CartPole
-Except preventing the CarPole from falling over, the task1 is a surveillance mission that requireds to s visit  region yellow and region green periodically (infinite horizon). The task2 requires to visit yellow first and then green. The deoms for task1 and task2 are shown in left and right respectively.
+
+Except preventing the CarPole from falling over, the task1 is a surveillance mission that requireds to s visit  region yellow and region green periodically (infinite horizon). The task2 requires to visit yellow first and then green (finite horizon). The deoms for task1 and task2 are shown in left and right respectively.
 
 
 
