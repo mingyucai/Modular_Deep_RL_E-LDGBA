@@ -9,7 +9,7 @@ The project applies a smodified Soft-Actor-Critic algorithm based on the Py-Torc
 
 ## Ball-Pass and Cart-Pole Environment
 The task is performed on a custom environment developed using Gym-OpenAI from [DeepRL-LTL](https://github.com/RickyMexx/DeepRL-LTL) and [CartPole](https://gym.openai.com/envs/CartPole-v0/). 
-<img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Ball-Pass%20and%20CartPole_environment.jpg" >
+<img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Ball-Pass%20and%20CartPole_environment.jpg" width="400" height="200" >
 <br>
 
 ## Results
