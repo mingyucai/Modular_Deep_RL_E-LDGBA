@@ -1,7 +1,6 @@
 # Modular_Deep_RL_E-LDGBA
 
-The repository implements a modular Deep Deterministic Policy Gradients (DDPG) Reinforcement Learning (RL) with liear temporal logic specifications as high-level misstion specifications.  The project is based on a modified Soft-Actor-Critic algorithm based on the Py-Torch implementation provided at [Py-Torch SAC](https://github.com/pranz24/pytorch-soft-actor-critic) and 
-The project applies a smodified Soft-Actor-Critic algorithm based on the Py-Torch implementation and a modular deep RL algorithm provided at [Py-Torch SAC](https://github.com/pranz24/pytorch-soft-actor-critic) and [DeepRL-LTL](https://github.com/RickyMexx/DeepRL-LTL).
+The repository implements a modular Deep Deterministic Policy Gradients (DDPG) Reinforcement Learning (RL) with liear temporal logic specifications as high-level misstion specifications.  The project is based on a modified Soft-Actor-Critic algorithm based on the Py-Torch implementation provided at [Py-Torch SAC](https://github.com/pranz24/pytorch-soft-actor-critic).
 
 [Project Webpage](https://github.com/mingyucai/Modular_Deep_RL/)
 
