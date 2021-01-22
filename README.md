@@ -26,7 +26,7 @@ Except preventing the CarPole from falling over, the task1 is a surveillance mis
 
 Here we compare the mean reward during training for task1 (left) and task2(right) with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
-![Rward](/Images/Task_CartPole.jpg)
+![Rward](/Images/task_CartPole.jpg)
 
 
 
