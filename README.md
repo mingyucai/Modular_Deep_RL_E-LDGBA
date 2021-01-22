@@ -22,6 +22,12 @@ Except preventing the CarPole from falling over, the task1 is a surveillance mis
 ![task2](/Images/Task2_CartPole.gif)
 
 
+<br><br>
+
+Here we compare the mean reward during training for task1 (left) and task2(right) with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+
+![Rward](/Images/Task_CartPole.jpg)
+
 
 
 <br>
@@ -38,7 +44,7 @@ The task 1 is a surveillance mission that requireds to s visit region 1 and regi
 
 
 <br><br>
-Here we compare the mean and standard deviation of rewards during training for task1 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the total reward during training for task1 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
 ![Rward](/Images/Task1_reward_.jpg)
 
@@ -55,7 +61,7 @@ The task 2 is required to visit region 1, and then region 2 (finite horizon). Th
 
 
 <br><br>
-Here we compare the mean and standard deviation of rewards during training for task 2 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the mean reward during training for task 2 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
 
 ![Rward](/Images/Task2_reward.jpg)
 
