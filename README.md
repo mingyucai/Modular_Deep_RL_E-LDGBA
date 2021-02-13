@@ -23,7 +23,7 @@ Except preventing the CarPole from falling over, the task1 is a surveillance mis
 
 <br><br>
 
-Here we compare the mean reward during training for task1 (left) and task2(right) with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the mean reward during training for task1 (left) and task2(right) with two method: (i) modular DDPG + EP-MDP; (ii) standard DDPG + EP-MDP.
 
 <img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/task_CartPole.jpg" width="800" height="300" >
 
@@ -43,7 +43,7 @@ The task 1 is a surveillance mission that requireds to s visit region 1 and regi
 
 
 <br><br>
-Here we compare the mean and total reward during training for task1 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the mean and total reward during training for task1 with two method: (i) modular DDPG + EP-MDP; (ii) standard DDPG + EP-MDP.
 
 <img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Task1_reward_.jpg" width="800" height="300" >
 
@@ -60,7 +60,7 @@ The task 2 is required to visit region 1, and then region 2 (finite horizon). Th
 
 
 <br><br>
-Here we compare the mean and total reward during training for task 2 with two method: (i) modular DDPG + E-LDGBA; (ii) standard DDPG + E-LEGBA.
+Here we compare the mean and total reward during training for task 2 with two method: (i) modular DDPG + EP-MDP; (ii) standard DDPG + EP-MDP.
 
 <img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Task2_reward.jpg" width="800" height="300" >
 
