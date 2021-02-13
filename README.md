@@ -11,7 +11,7 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 <img src="https://github.com/mingyucai/Modular_Deep_RL_E-LDGBA/blob/main/Images/Ball-Pass%20and%20CartPole_environment.jpg" width="800" height="400" >
 <br>
 
-## Results for CartPole
+## Results for CartPole using EP-MDP
 
 Except preventing the CarPole from falling over, the task1 is a surveillance mission that requireds to visit  region yellow and region green periodically (infinite horizon). The task2 requires to visit yellow first and then green (finite horizon). The deoms for task1 and task2 are shown in left and right respectively.
 
@@ -26,7 +26,7 @@ Except preventing the CarPole from falling over, the task1 is a surveillance mis
 
 
 
-## Results for Ball-Pass
+## Results for Ball-Pass using EP-MDP
 
 ### Task 1
 The task 1 is a surveillance mission that requireds to s visit region 1 and region 2 periodically (infinite horizon). The modular DDPG (on the left) is able to completely solve the specified task with 100% success rate. Standard DDPG (one the right) fails for this repetitve pattern. 
