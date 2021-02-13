@@ -12,10 +12,7 @@ The task is performed on a custom environment developed using Gym-OpenAI from [D
 <br>
 
 ## Results for CartPole using EP-MDP
-
 Except preventing the CarPole from falling over, the task1 is a surveillance mission that requireds to visit  region yellow and region green periodically (infinite horizon). The task2 requires to visit yellow first and then green (finite horizon). The deoms for task1 and task2 are shown in left and right respectively.
-
-
 
 ![task1](/Images/Task1_CartPole.gif)
 ![task2](/Images/Task2_CartPole.gif)
@@ -23,8 +20,6 @@ Except preventing the CarPole from falling over, the task1 is a surveillance mis
 <br><br>
 
 <br>
-
-
 
 ## Results for Ball-Pass using EP-MDP
 
@@ -47,3 +42,6 @@ The task 2 is required to visit region 1, and then region 2 (finite horizon). Th
 <br><br>
 
 <br>
+
+## Comarision with Standard Product MDP
+Here are the results (worst cases) using Standard Product MDP for tasks over infinite horizon in CarPole and Ball Pass, respectively.
