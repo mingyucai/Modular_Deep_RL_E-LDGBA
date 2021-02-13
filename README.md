@@ -45,3 +45,5 @@ The task 2 is required to visit region 1, and then region 2 (finite horizon). Th
 
 ## Comarision with Standard Product MDP
 Here are the results (worst cases) using Standard Product MDP for tasks over infinite horizon in CarPole and Ball Pass, respectively.
+![CartPole](/Images/CartPole_P-MDP.gif)
+![Bass-pass](/Images/Ball-pass_P-MDP.gif)
