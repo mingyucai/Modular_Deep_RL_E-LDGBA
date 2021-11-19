@@ -5,7 +5,18 @@ The repository implements a modular Deep Deterministic Policy Gradients (DDPG) R
 <br>
 
 ## Publications
-* Mingyu Cai, Mohammadhosein Hasanbeig, Shaoping Xiao, Alessandro Abate, and Zhen Kan. "Modular deep reinforcement learning for continuous motion planning with temporal logic", IEEE Robotics and Automation Letters 6 (4), 7973-7980. [[PDF]](https://arxiv.org/pdf/2102.12855.pdf)
+<pre>
+@article{Cai2021modular,
+  title={Modular Deep Reinforcement Learning for Continuous Motion Planning with Temporal Logic},
+  author={Cai, Mingyu and Hasanbeig, Mohammadhosein and Xiao, Shaoping and Abate, Alessandro and Kan, Zhen},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={4},
+  pages={7973-7980},
+  year={2021},
+  publisher={IEEE}
+}
+</pre>
 
 <br>
 
