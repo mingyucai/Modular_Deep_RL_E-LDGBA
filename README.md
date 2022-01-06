@@ -7,7 +7,7 @@ The repository implements a modular Deep Deterministic Policy Gradients (DDPG) R
 
 ## Software
 
-Under Construction
+Under Construction. If any questions, feel free to contact: mingyucai0915@gmail.com.
 
 <br>
 
