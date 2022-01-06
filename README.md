@@ -1,5 +1,11 @@
 # Modular_Deep_RL_E-LDGBA
 
+## Software
+
+Under Construction
+
+<br>
+
 The repository implements a modular Deep Deterministic Policy Gradients (DDPG) Reinforcement Learning (RL) with liear temporal logic specifications as high-level misstion specifications. 
 
 <br>
