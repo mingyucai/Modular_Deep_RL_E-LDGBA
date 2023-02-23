@@ -12,6 +12,7 @@ python main.py --batch_size 64 --automatic_entropy_tuning True --cuda
 
 ```
 
+
 ## Publication
 <pre>
 @article{cai2021modular,
